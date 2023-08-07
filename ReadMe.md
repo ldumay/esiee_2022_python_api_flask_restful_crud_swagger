@@ -1,5 +1,7 @@
 Python - API - CRUD & SWAGGER
 
+> 🚨 **Projet déplacer ici ▶▶ : [https://github.com/2023-esiee-projectlab/esiee_2022_python_api_flask_restful_crud_swagger/](https://github.com/2023-esiee-projectlab/esiee_2022_python_api_flask_restful_crud_swagger/)**
+
 - Quickstart : https://flask-restful.readthedocs.io/en/latest/quickstart.html#a-minimal-api
 
 - Example Python Flask Crud : https://github.com/gurkanakdeniz/example-flask-crud
